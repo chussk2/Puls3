@@ -109,6 +109,9 @@ nav #publicar_nav a {
 	padding: .5em 1em;
 
 }
+#bienvenida {
+	display: none;
+}
 #contenido {
 	margin: 1em;
 }
